@@ -1,4 +1,4 @@
-# HexoForge Images
+# Hexoforge Images
 
 Custom Pterodactyl Images by HexoForge to be used on our systems. Each image is rebuilt
 periodically to ensure dependencies are always up-to-date.
