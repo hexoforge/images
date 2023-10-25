@@ -7,7 +7,8 @@ periodically to ensure dependencies are always up-to-date.
 ## Available Images
 
 #### [`Azul Zulu Runtime`](https://github.com/hexoforge/images/tree/main/zulu)
-   ```docker
+#### Zulu 11    
+```docker
    ghcr.io/hexoforge/images:zulu_11
 ```
   * `ghcr.io/hexoforge/images:zulu_16`
