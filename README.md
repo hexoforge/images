@@ -3,6 +3,13 @@
 Custom Pterodactyl Images by HexoForge to be used on our systems. Each image is rebuilt
 periodically to ensure dependencies are always up-to-date.
 
+#### To Do List
+- [ ] JDK
+- [ ] Vanilla Java
+- [ ] Anti Malware
+- [ ] NodeJs
+- [ ] Python
+- [ ] Debian
 
 # Available Images
 
@@ -28,3 +35,5 @@ ghcr.io/hexoforge/images:zulu_18
 ```docker
 ghcr.io/hexoforge/images:zulu_19
 ```
+
+## [`Java  Runtime`](https://github.com/hexoforge/images/tree/main/zulu)
