@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Vikas Dongre, HexoForge [Email Us](mailto:dev@hexoforge.com)
+Copyright (c) 2023 Vikas Dongre, HexoForge [Email Us](mailto:dev@hexoforge.com) 
 Copyright (c) 2020 Matthew Penner, Pterodactyl
 
 
